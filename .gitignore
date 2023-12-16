@@ -1,0 +1,13 @@
+# ide and system
+.DS_Store
+.idea
+.vscode
+
+# dev
+node_modules
+package-lock.json
+dist
+lib
+
+# test
+coverage/

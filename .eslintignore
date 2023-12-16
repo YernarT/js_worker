@@ -1,0 +1,8 @@
+# scripts
+/src/command/*
+
+# worker script
+script/*
+
+# alloy-worker webpack plugin
+src/plugin/*

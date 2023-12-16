@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files
+# plugin 和 ts type
+!lib/**/*
+# bin script
+!src/command/**/*
+# channel source code
+!src/worker/**/*

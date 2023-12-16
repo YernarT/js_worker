@@ -1,0 +1,3 @@
+defaults
+ie >= 10 # 2012, Minimum IE version to support Web Worker
+ios >= 9 # 2015
